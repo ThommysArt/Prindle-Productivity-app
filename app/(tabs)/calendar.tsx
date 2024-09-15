@@ -2,10 +2,10 @@ import React from 'react';
 import { View } from 'react-native';
 import { Text } from 'react-native-paper';
 
-export default function ProjectsTasksScreen() {
+export default function CalendarScreen() {
   return (
     <View className="flex-1 justify-center items-center">
-      <Text>Projects & Tasks Screen</Text>
+      <Text>Calendar Screen</Text>
     </View>
   );
 }
